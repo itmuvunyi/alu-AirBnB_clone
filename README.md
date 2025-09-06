@@ -184,4 +184,4 @@ Usage: <class_name>.update(<_id>, )
 ## **AUTHOR**
 
 ```text
-- [Innocent Tito Muvunyi](mailto:i.muvunyi@alustudent.com) <i.muvunyi@alustudent.com>
+- [Innocent Tito Muvunyi <i.muvunyi@alustudent.com>](mailto:i.muvunyi@alustudent.com)
