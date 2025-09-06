@@ -181,8 +181,8 @@ Usage: <class_name>.update(<_id>, )
 
 ---
 
-## **AUTHORS**
+## **AUTHOR**
 
 ```text
-Innocent Tito Muvunyi <> <i.muvunyi@alustudent.com>
+Innocent Tito Muvunyi <> [](i.muvunyi@alustudent.com)
 
